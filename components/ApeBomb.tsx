@@ -19,6 +19,14 @@ export function ApeBomb() {
       <h2 className="text-2xl font-bold mb-2 text-center bg-gradient-to-r from-[#0054fa] to-[#00a3ff] bg-clip-text text-transparent">
         ApeBomb
       </h2>
+      <a 
+        href="https://apescan.io/address/0xC1932844eDcc3193ae2622089c4B57ae5F023D7f"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block text-center text-xs text-gray-400 hover:text-[#0054fa] transition-colors mb-4"
+      >
+        View contract on ApeScan →
+      </a>
       
       <div className="text-center mb-6">
         <div>

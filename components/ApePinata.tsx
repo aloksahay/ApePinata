@@ -25,10 +25,18 @@ export function ApePinata() {
       <h2 className="text-2xl font-bold mb-2 text-center bg-gradient-to-r from-[#0054fa] to-[#00a3ff] bg-clip-text text-transparent">
         ApePinata
       </h2>
+      <a 
+        href="https://apescan.io/address/0xF32c31415CCE1759f363aC1371b068AC691B2A39"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="block text-center text-xs text-gray-400 hover:text-[#0054fa] transition-colors mb-4"
+      >
+        View contract on ApeScan →
+      </a>
       
       <div className="text-center mb-6">
         <div>
-          <span className="text-gray-400 text-sm">Target: </span>
+          <span className="text-gray-400 text-sm">Current target: </span>
           <span className="text-[#0054fa] font-bold">{target} $APE</span>
         </div>
       </div>
