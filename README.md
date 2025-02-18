@@ -6,13 +6,11 @@ Follow [Quit on X](https://x.com/0xQuit/)
 
 ### How it works:
 
-🔷 Send 1 $APE to the contract on ApeChain, get assigned a number. You can send up to 1000 $APE per transaction, and you'll get one entry per $APE. No limit on the number of transactions you can send for more entries.
-🔷 Once the contract balance hits 100,000 $APE, every new entry will trigger a random draw (powered by 
-@PythNetwork
-) for a number between 0-1M
-🔷 If the number is unassigned, play on
-🔷 If the number is yours, the entire contract balance is sent to you
-🔷 Once a winner is selected, the tournament resets
+🔷 Send 1 $APE to the contract on ApeChain, get assigned a number. You can send up to 1000 $APE per transaction, and you'll get one entry per $APE. No limit on the number of transactions you can send for more entries.  
+🔷 Once the contract balance hits 100,000 $APE, every new entry will trigger a random draw (powered by @PythNetwork) for a number between 0-1M  
+🔷 If the number is unassigned, play on  
+🔷 If the number is yours, the entire contract balance is sent to you  
+🔷 Once a winner is selected, the tournament resets  
 
 But here's the twist:
 ApeChain is the home of NFTs, did you think I'd forget about them? There is a small chance (between 0.1% and 1%) that a Shadow NFT holder will get the payout instead.
