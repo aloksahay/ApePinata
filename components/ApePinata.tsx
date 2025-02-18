@@ -2,7 +2,7 @@ import { useWallet } from '../context/WalletContext'
 import { useState, useEffect } from 'react'
 
 export function ApePinata() {
-  const { address, balanceNumber, target, sendApePinata, apePinataTotal } = useWallet()
+  const { address, balanceNumber, target, sendApePinata } = useWallet()
   const [amount, setAmount] = useState<number>(1)
 
   useEffect(() => {

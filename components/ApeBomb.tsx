@@ -2,7 +2,7 @@ import { useWallet } from '../context/WalletContext'
 import { useState } from 'react'
 
 export function ApeBomb() {
-  const { address, balanceNumber, sendApeBomb, apeBombPot, apeBombTotal } = useWallet()
+  const { address, balanceNumber, sendApeBomb, apeBombPot } = useWallet()
   const [amount, setAmount] = useState<number>(1)
 
   const maxAmount = Math.min(
